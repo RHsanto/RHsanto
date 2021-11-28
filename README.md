@@ -51,7 +51,7 @@ Skills:  JAVASCRIPT / REACTJS / REACT BOOTSTRAP / MATERIAL-UI / NODEJS / MONGODB
 
 <a> 
   <br/>
-    <a href="https://github.com/RHsanto"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=RHsanto&show_icons=true&count_private=true&theme" height="192px" width="60%"/></a>
+    <a href="https://github.com/RHsanto"><img alt="RHsanto Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=RHsanto&show_icons=true&count_private" height="192px" width="60%"/></a>
  
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
