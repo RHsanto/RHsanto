@@ -3,11 +3,11 @@
   <a href="https://github.com/RHsanto"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-![Profile views](https://gpvc.arturio.dev/thekawsarhossain) 
+![Profile views](https://gpvc.arturio.dev/RHsanto) 
 
 Hey there! This is Rakibul Hasan . I'm a Front end Web Developer.
 
-Skills: HTML / CSS / BOOTSTRAP / TAILWIND / JAVASCRIPT / REACTJS / REACT BOOTSTRAP / MATERIAL-UI / NODEJS / MONGODB / EXPRESS / FIREBASE  
+Skills:  JAVASCRIPT / REACTJS / REACT BOOTSTRAP / MATERIAL-UI / NODEJS / MONGODB / EXPRESS / FIREBASE / HTML / CSS / BOOTSTRAP / TAILWIND 
  
 
 - 🌱 I’m currently learning **Backend Development**
