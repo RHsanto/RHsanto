@@ -1,4 +1,6 @@
-<h1 align="center">Hi I'm Rakibul Hasan 👋 </h1>
+<h1 align="center">Hi I'm Rakibul Hasan 
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 <p align="center">
   <a href="https://github.com/RHsanto"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
@@ -30,7 +32,7 @@ Skills:  JAVASCRIPT / REACTJS / REACT BOOTSTRAP / MATERIAL-UI / NODEJS / MONGODB
 </p>
 
 ## 🛠️ Languages , Libraries & Tools
-<hr/>
+
 <p>
     <code href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></code>
     <code href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></code>
