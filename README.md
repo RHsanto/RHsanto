@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakibul Hasan </h1>
 <p align="center">
-  <a href="https://github.com/RHsanto"><img src="https://readme-typing-svg.herokuapp.com/demo/"></a>
+  <a href="https://github.com/RHsanto"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/thekawsarhossain) 
@@ -16,7 +16,7 @@ Skills: HTML / CSS / BOOTSTRAP / TAILWIND / JAVASCRIPT / REACTJS / REACT BOOTSTR
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, React**
 
-- 📫 How to reach me **thekawsarhossain@gmail.com**
+- 📫 How to reach me **rakibul.hasan888@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekawsarhossain&label=Profile%20views&color=0e75b6&style=flat" alt="thekawsarhossain" /> </p>
 
 <h3 align="left">Connect with me:</h3>
