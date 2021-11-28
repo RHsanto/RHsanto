@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakibul Hasan </h1>
 <p align="center">
-  <a href="https://github.com/RHsanto"><img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=An+enthusiast+programmer;+from+Bangladesh)](https://git.io/typing-svg)"></a>
+  <a href="https://github.com/RHsanto"><img src="https://readme-typing-svg.herokuapp.com/demo/"></a>
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/thekawsarhossain) 
