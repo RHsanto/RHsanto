@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rakibul Hasan </h1>
+<h1 align="center">Hi I'm Rakibul Hasan 👋 </h1>
 <p align="center">
   <a href="https://github.com/RHsanto"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
@@ -50,11 +50,9 @@ Skills:  JAVASCRIPT / REACTJS / REACT BOOTSTRAP / MATERIAL-UI / NODEJS / MONGODB
 </p>
 
 <a> 
-  <br/>
-    <a href="https://github.com/RHsanto"><img alt="RHsanto Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=RHsanto&show_icons=true&count_private" height="192px" width="60%"/></a>
+  
+ <a href="https://github.com/RHsanto"><img alt="RHsanto Github Stats" src="https://activity-graph.herokuapp.com/graph?username=RHsanto" height="192px" width="60%"/></a>
  
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHsanto)](https://github.com/anuraghazra/github-readme-stats)
