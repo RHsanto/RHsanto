@@ -51,11 +51,11 @@ Skills:  JAVASCRIPT / REACTJS / REACT BOOTSTRAP / MATERIAL-UI / NODEJS / MONGODB
 
 <a> 
   
- <a href="https://github.com/RHsanto"><img alt="RHsanto Github Stats" src="https://activity-graph.herokuapp.com/graph?username=RHsanto" height="192px" width="60%"/></a>
+ <a href="https://github.com/RHsanto"><img alt="RHsanto Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=RHsanto&show_icons" height="192px" width="60%"/></a>
  
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHsanto)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHsanto)](https://github.com/RHsanto/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RHsanto&show_icons=true)  
 
