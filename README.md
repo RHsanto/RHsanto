@@ -54,7 +54,7 @@ Skills:  JAVASCRIPT / REACTJS / REACT BOOTSTRAP / MATERIAL-UI / NODEJS / MONGODB
   
 </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RHsanto)  
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHsanto)](https://github.com/anuraghazra/github-readme-stats)
 
