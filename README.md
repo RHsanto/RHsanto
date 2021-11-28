@@ -32,7 +32,7 @@ Skills:  JAVASCRIPT / REACTJS / REACT BOOTSTRAP / MATERIAL-UI / NODEJS / MONGODB
 </p>
 
 ## 🛠️ Languages , Libraries & Tools
-
+<br/>
 <p>
     <code href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></code>
     <code href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></code>
@@ -51,7 +51,7 @@ Skills:  JAVASCRIPT / REACTJS / REACT BOOTSTRAP / MATERIAL-UI / NODEJS / MONGODB
   
 </p>
 
-
+<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHsanto)
 
