@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rakibul Hasan </h1>
-<h3 align="center">An enthusiast programmer from Bangladesh</h3>
 <p align="center">
   <a href="https://github.com/alsiamworld"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
