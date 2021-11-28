@@ -3,14 +3,14 @@
 
 ![Profile views](https://gpvc.arturio.dev/thekawsarhossain) 
 
-Hey there! This is Kawsar Hossain . I'm a Front end Web Developer.
+Hey there! This is Rakibul Hasan . I'm a Front end Web Developer.
 
-Skills: HTML / CSS / BOOTSTRAP / TAILWIND / JAVASCRIPT / REACTJS / REACT BOOTSTRAP / MATERIAL-UI / NODEJS / MONGODB / EXPRESS 
+Skills: HTML / CSS / BOOTSTRAP / TAILWIND / JAVASCRIPT / REACTJS / REACT BOOTSTRAP / MATERIAL-UI / NODEJS / MONGODB / EXPRESS / FIREBASE  
  
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/thekawsarhossain)
+- 👨‍💻 All of my projects are available at (https://github.com/RHsanto)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, React**
 
@@ -21,11 +21,10 @@ Skills: HTML / CSS / BOOTSTRAP / TAILWIND / JAVASCRIPT / REACTJS / REACT BOOTSTR
 <p align="left">
 <a href="https://dev.to/thekawsarhossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="thekawsarhossain" height="30" width="40" /></a>
 <a href="https://twitter.com/thekawsarh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thekawsarh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thekawsarhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thekawsarhossain" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16843759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16843759" height="30" width="40" /></a>
-<a href="https://fb.com/kawsar.hossain318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kawsar.hossain318" height="30" width="40" /></a>
-<a href="https://instagram.com/thekawsarhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thekawsarhossain" height="30" width="40" /></a>
-<a href="https://medium.com/@thekawsarhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thekawsarhossain" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rakibul-hasan-santo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RAKIBUL" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16844926/rakib-ul-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16843759" height="30" width="40" /></a>
+<a href="https://www.facebook.com/RakibUlSanto20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kawsar.hossain318" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
