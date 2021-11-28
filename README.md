@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rakibul Hasan </h1>
 <p align="center">
-  <a href="https://github.com/alsiamworld"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/RHsanto"><img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=An+enthusiast+programmer;+from+Bangladesh)](https://git.io/typing-svg)"></a>
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/thekawsarhossain) 
