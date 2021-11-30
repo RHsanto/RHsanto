@@ -52,11 +52,11 @@ Skills:  JAVASCRIPT / REACTJS / REACT BOOTSTRAP / MATERIAL-UI / NODEJS / MONGODB
 </p>
 
 <br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHsanto)
+
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RHsanto&show_icons=true&locale=en" alt="codebucks27" /></p>
 
 
-p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RHsanto&show_icons=true&locale=en" alt="codebucks27" /></p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RHsanto&show_icons) 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RHsanto)  
 
