@@ -7,7 +7,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/RHsanto) 
 
-<h2  align="center">Hey there! This is Rakibul Hasan . I'm a Front end Web Developer.</h2>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RHsanto)](https://github.com/RHsanto/github-profile-trophy)
 
