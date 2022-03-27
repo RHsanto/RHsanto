@@ -52,5 +52,5 @@ Skills:  JAVASCRIPT / REACTJS / REACT BOOTSTRAP / MATERIAL-UI / NODEJS / MONGODB
 
 ![Profile views](https://gpvc.arturio.dev/RHsanto)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RHsanto)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=RHsanto-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RHsanto)](https://github.com/RHsanto/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RHsanto-ma&theme=onedark)](https://github.com/RHsanto/github-profile-trophy)
