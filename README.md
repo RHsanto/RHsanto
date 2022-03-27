@@ -51,3 +51,5 @@ Skills:  JAVASCRIPT / REACTJS / REACT BOOTSTRAP / MATERIAL-UI / NODEJS / MONGODB
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RHsanto)  
 
 ![Profile views](https://gpvc.arturio.dev/RHsanto)  
+
+[![trophy](https://github-profile-trophy.vercel.app/RHsanto=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
