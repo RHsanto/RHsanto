@@ -16,9 +16,9 @@
 
 - 👨‍💻 All of my projects are available at (https://github.com/RHsanto)
 
-- 💬 Ask me about **HTML5, CSS3, JS, React, MUI, Tailwind , Bootstrap, **
+- 💬 Ask me about **HTML5, CSS3, JS, React, Next, MUI, Tailwind , Bootstrap, **
 
-- 📫 How to reach me **rakibul.hasan888@gmail.com**
+- 📫 How to reach me **rakibulsanto789@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RHsanto&label=Profile%20views&color=0e75b6&style=flat" alt="thekawsarhossain" /> </p>
 
