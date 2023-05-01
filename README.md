@@ -12,7 +12,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=RHsanto)](https://github.com/RHsanto/github-profile-trophy)
 
 
-- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at (https://github.com/RHsanto)
 
