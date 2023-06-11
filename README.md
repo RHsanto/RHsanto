@@ -43,12 +43,12 @@
 <br/>
 <br/>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHsanto) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHsanto)
 
- <p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RHsanto&show_icons=true&locale=en" alt="codebucks27" /></p>
+<!--  <p> -->
+<!--    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RHsanto&show_icons=true&locale=en" alt="codebucks27" /></p> -->
  
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RHsanto)   -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RHsanto)  
 
 ![Profile views](https://gpvc.arturio.dev/RHsanto)  
 
