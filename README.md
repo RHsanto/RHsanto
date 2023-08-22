@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at (https://github.com/RHsanto)
 
-- 💬 Ask me about **HTML5, CSS3, JS, React, Next, MUI, Tailwind , Bootstrap, **
+- 💬 Ask me about **HTML5, CSS3, JS, React, Redux, Next, MUI, Tailwind, Bootstrap, **
 
 - 📫 How to reach me **rakibulsanto789@gmail.com**
 
